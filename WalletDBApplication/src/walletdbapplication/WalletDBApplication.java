@@ -18,6 +18,7 @@ public class WalletDBApplication {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //uncomment methods to run them individually
         RetrievesData rd = new RetrievesData();
         //rd.getAllUser();
         //rd.getAUserDetail();
